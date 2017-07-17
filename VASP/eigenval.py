@@ -5,6 +5,7 @@
 #         yabeiwu@163.com
 #######################################################################################################
 # This is python code to extracting eigenvalues from vasprun.xml file
+# Only can be used in the Line-Mode band calculation.
 #######################################################################################################
 from array import *
 from operator import itemgetter
