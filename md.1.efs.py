@@ -11,6 +11,7 @@ with open('energies.dat','w') as e,open('forces.dat','w') as f,open('stress.dat'
         f.writelines(f"# {ii+1}\n")
         # energy
         e.writelines(f"{ii:4d}{energy:20.8f}\n")
+        # forces
         for jj in range(x):
             for kk in range(y):
                 f.writelines(f"{forces[jj][kk]:20.13f}\t")
