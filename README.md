@@ -4,4 +4,5 @@ These scripts are for VASP, QuantumEspresso, BerkeleyGW, BoltzmanTrap, etc...
 
 2. QuantumEspresso
 3. BerkeleyGW
-4. BoltzmanTrap
+4. PARATEC
+5. BoltzmanTrap
