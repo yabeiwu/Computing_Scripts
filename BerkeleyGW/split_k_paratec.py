@@ -1,4 +1,5 @@
 ## this script is used to split the number of kpoints in the PARATEC calculation to solve the calculation problem with too many kpoints in a single calculation.
+
 import numpy as np
 import math
 import os, shutil
